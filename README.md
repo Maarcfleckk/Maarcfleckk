@@ -12,8 +12,6 @@
 
 ![Marc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maarcfleckk&layout=compact&theme=radical)
 
-![Marc's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Maarcfleckk&bg_color=ffffff&color=000000&line=4C71F2&point=4C71F2&area=true&hide_border=true)
-
 ![Marc's Trophies](https://github-profile-trophy.vercel.app/?username=Maarcfleckk&theme=radical)
 
 </div>
